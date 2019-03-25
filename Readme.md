@@ -35,8 +35,9 @@ post-CombinedModel4gmt.txt --- the postseismic slip model from the combined mode
 groundwaterLevelChangesFromGrace.mat --- the groundwater level changes estimated from the GRACE data
 groundwaterLevelChangesFromWell.mat --- the groundwater level changes estimated from the Well data
 
-* Note that all the displacement files are resampled into 0.001 degree posting
+All displacement files are resampled into 0.001 degree posting
+
 ------------------
 
-* Paper Citation： 
+Paper Citation： 
 Wang, S., Xu, W., Xu, C., Yin, Z., Bürgmann, R., Liu, L., & Jiang, G. ( 2019). Changes in groundwater level possibly encourage shallow earthquakes in central Australia: The 2016 Petermann Ranges earthquake. Geophysical Research Letters, 46. https://doi.org/10.1029/2018GL080510
