@@ -2,7 +2,7 @@ Changes in Groundwater Level Possibly Encourage Shallow Earthquakes in Central A
 
 Shuai Wang, Wenbin Xu, et al., 2019
 
-Corresponding author: Wenbin Xu (xuwenbin-23@163.com)
+Corresponding author: Wenbin Xu (wenbin.xu@csu.edu.cn)
 
 DOI: https://doi.org/10.1029/2018GL080510
 
